@@ -1,0 +1,5 @@
+Loginserver/project starter - TokXilChaosZ
+channelserver/itemextractor - Auron3
+
+If you remove this in one of your releases that is based on
+this sourcecode, then you are a god damned faggot.

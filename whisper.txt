@@ -1,0 +1,14 @@
+44 2B -- packet command
+2D 00 -- packet len
+1B 00 -- client number
+50 61 74 63 68 55 72 46 61 63 65 00 00 00 00 -- 15 byte recv char name
+5B 66 65 72 77 67 7A 68 65 72 7A 65 72 5D 57 68 69 73 70 65 72 0D 3A 20 68 69 00 00 -- text 
+
+2B 2F -- packet command
+xx xx -- plen
+ 
+
+00 6B 00 00 == "user not logged in"
+
+01 00 1B 00
+text + 00;
