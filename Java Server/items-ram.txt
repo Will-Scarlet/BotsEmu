@@ -1,0 +1,64 @@
+//-----------Heads----------//
+ID 	- Name 		- level - buy 	  - sell 	- Effekt
+1310100 - Mohawk 	- 1	- 500 	  - 250 	- hp +66
+1310101 - Mohawk+1 	- 1	- 0 	  - 150 	- hp +66, specialtrans +9
+1310102 - Mohawk+2 	- 1	- 0 	  - 200 	- hp +66, specialtrans +23
+1310103 - Mohawk+3 	- 1	- 0 	  - 325 	- hp +66, specialtrans +58
+1310104 - Mohawk+4 	- 1	- 0 	  - 350 	- hp +66, specialtrans +66
+1310105 - Mohawk+5 	- 1	- 0 	  - 375 	- hp +66, specialtrans +73
+
+1310200 - Davey-Croc 	- 8 	- 2200 	  - 1100 	- hp +131
+1310201 - Davey-Croc+1 	- 8 	- 2200 	  - 350 	- hp +131, specialtrans +26
+1310202 - Davey-Croc+2 	- 8 	- 2200 	  - 375 	- hp +131, specialtrans +40
+1310203 - Davey-Croc+3 	- 8 	- 2200 	  - 500 	- hp +131, specialtrans +75
+1310204 - Davey-Croc+4 	- 8 	- 2200 	  - 550 	- hp +131, specialtrans +86
+1310205 - Davey-Croc+5 	- 8 	- 2200 	  - 600 	- hp +131, specialtrans +95
+
+1310300 - Solar-Buster 	- 18 	- 8300 	  - 4150 	- hp +196
+1310400 - Dusk-Runner 	- 28 	- 20000   - 10000 	- hp +261
+1310500 - Synapse	- 38	- 80000	  - 40000	- hp +326
+1310600 - SpikeEMT	- 48	- 98000   - 49000	- hp +391
+1310700	- Neg-Volt	- 58	- 110000  - 55000	- hp +456
+1310800 - Scritter	- 68	- 210000  - 105000	- hp +521
+1310900 - Frost-Grapper	- 78	- 315000  - 157500	- hp +586
+1311000 - Plasma-Dasher	- 88	- 472500  - 236250	- hp +651
+1311100 - Illuminum	- 98	- 722500  - 361250	- hp +740
+
+
+//-----------Bodys----------//
+ID 	- Name 		- level - buy 	  - sell 	- Effekt
+1320100	- Mohawk 	- 1	- 700 	  - 350 	- att trans +18 ~ +21
+1320200 - Davey-Croc 	- 8 	- 2900 	  - 1450 	- att trans +28 ~ +42
+1320300 - Solar-Buster 	- 18 	- 10000	  - 5000 	- att trans +38 ~ +63
+1320400 - Dusk-Runner 	- 28 	- 25000   - 12500 	- att trans +48 ~ +84
+1320500 - Synapse	- 38	- 91000	  - 45500	- att trans +58 ~ +105
+1320600 - SpikeEMT	- 48	- 102000  - 51000	- att trans +68 ~ +126
+1320700	- Neg-Volt	- 58	- 130000  - 65000	- att trans +78 ~ +147
+1320800 - Scritter	- 68	- 247000  - 123500	- att trans +88 ~ +168
+1320900 - Frost-Grapper	- 78	- 370000  - 185000	- att trans +98 ~ +189
+1321000 - Plasma-Dasher	- 88	- 555000  - 277500	- att trans +108 ~ +210
+1321100 - Illuminum	- 98	- 855000  - 427500	- att trans +150 ~ +270
+
+
+//----------Arms---------//
+ID 	- Name 		- level - buy 	  - sell 	- Effekt
+1330100	- Mohawk 	- 1	- 400 	  - 200 	- att basic +9 ~ +13
+1330200 - Davey-Croc 	- 8 	- 2000 	  - 1000 	- att basic +12 ~ +17
+1330300 - Solar-Buster 	- 18 	- 6300	  - 3150 	- att basic +15 ~ +21
+1330400 - Dusk-Runner 	- 28 	- 14000   - 7000 	- att basic +18 ~ +25
+1330500 - Synapse	- 38	- 57000	  - 28500	- att basic +21 ~ +29
+1330600 - SpikeEMT	- 48	- 75000   - 37500	- att trans +24 ~ +33
+1330700	- Neg-Volt	- 58	- 80000   - 40000	- att basic +27 ~ +37
+1330800 - Scritter	- 68	- 152000  - 76000	- att basic +30 ~ +41
+1330900 - Frost-Grapper	- 78	- 228000  - 114000	- att basic +33 ~ +45
+1331000 - Plasma-Dasher	- 88	- 342000  - 171000	- att basic +36 ~ +49
+1331100 - Illuminum	- 98	- 612000  - 306000	- att basic +51 ~ +60
+
+5041000
+
+Hi-Comm
+96 evade
+
+orbiter +3 +144
+
+bi-pad evade 7 critical 10
