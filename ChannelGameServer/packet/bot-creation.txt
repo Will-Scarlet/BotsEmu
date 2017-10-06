@@ -1,0 +1,6 @@
+FA 2A 2C 00   ---- 4 byte header
+0D 00         ---- 2 byte (MAYBE!) client number (first byte number, second byte multiplikation)
+01            ---- Bot type  ; 01 = patch ; 02 = surge ; 03 = ram
+00 00 00 48   ---- 4 byte static data
+6C 6F 76 65 6C 65 73 73 33 33 00 00 00 00 00 00 00 00 00 00 00 00 ----- 22 Byte Accountname
+54 65 73 74 6F 61 2D 00 00 00 00 00 00 00 00 ------ 15 Byte Character name
